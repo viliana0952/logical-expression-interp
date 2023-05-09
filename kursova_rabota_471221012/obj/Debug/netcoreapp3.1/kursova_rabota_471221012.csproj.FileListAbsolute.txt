@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\bin\Debug\netcoreapp3.1\kursova_rabota_471221012.exe
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\bin\Debug\netcoreapp3.1\kursova_rabota_471221012.deps.json
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\bin\Debug\netcoreapp3.1\kursova_rabota_471221012.runtimeconfig.json
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\bin\Debug\netcoreapp3.1\kursova_rabota_471221012.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\bin\Debug\netcoreapp3.1\kursova_rabota_471221012.dll
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\bin\Debug\netcoreapp3.1\kursova_rabota_471221012.pdb
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\netcoreapp3.1\kursova_rabota_471221012.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\netcoreapp3.1\kursova_rabota_471221012.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\netcoreapp3.1\kursova_rabota_471221012.AssemblyInfo.cs
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\netcoreapp3.1\kursova_rabota_471221012.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\netcoreapp3.1\kursova_rabota_471221012.dll
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\netcoreapp3.1\kursova_rabota_471221012.pdb
+C:\Users\Acer\Desktop\kursova_rabota_471221012\kursova_rabota_471221012\obj\Debug\netcoreapp3.1\kursova_rabota_471221012.genruntimeconfig.cache

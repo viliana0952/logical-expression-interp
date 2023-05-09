@@ -1,0 +1,2 @@
+﻿func1: "a b &"
+func2: "a b & c |"
